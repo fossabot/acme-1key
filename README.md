@@ -15,6 +15,7 @@ wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/ac
 ## 赞助我们
 
 ![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMisaka-blog%2Facme-1key.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMisaka-blog%2Facme-1key?ref=badge_shield)
 
 ## 交流群
 [Telegram](https://t.me/misakanetcn)
@@ -48,3 +49,7 @@ wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/ac
 感谢他们的贡献，让脚本得到进一步完善
 
 Acme.sh https://github.com/acmesh-official/acme.sh
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMisaka-blog%2Facme-1key.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMisaka-blog%2Facme-1key?ref=badge_large)
